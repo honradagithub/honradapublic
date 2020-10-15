@@ -1,3 +1,32 @@
+<style>
+    .dialogBtn{
+  border: none;
+  color: white;
+}
+</style>
+
+<button  class="btn btn-info btn-lg" 
+id="dialogBtn" >WhiteBoard</button>
+<div id="dialog">
+<iframe width="100%" height="650px" src="https://awwapp.com/b/ult2z3lsp1ymn/"></iframe>
+</div>
+
+<script>
+    $(function () {
+      $("#dialog").dialog({
+        height: 600,
+        width: $(window).width() > 800 ? 800 : 'auto',
+        autoOpen: false,
+        title: 'WhiteBoard',
+        responsive: true
+      });
+    });
+    $('#dialogBtn').click(function(){
+        $('#dialog').dialog('open');
+    });
+    </script>
+
+
 Mike
 <iframe width="100%" height="650px" src="https://awwapp.com/b/uf4ftrb7kahjk/"></iframe>
 
