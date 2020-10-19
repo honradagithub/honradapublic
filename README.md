@@ -1,11 +1,11 @@
 # shortcode cp
 
 <br>
-Embed pdf
+Inject pdf
 <br>
 https://github.com/honradagithub/honradapublic/blob/main/res/shortcode
 <br>
 <br>
-embed the modal button:
+Inject modal board:
 <br>
-https://github.com/honradagithub/honradapublic/blob/main/res/board-embed.html
+https://github.com/honradagithub/honradapublic/blob/main/res/modal-board-button.html
