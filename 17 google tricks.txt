@@ -1,0 +1,27 @@
+17 THỦ THUẬT “SEARCH ĐÂU TRÚNG ĐÓ” TRÊN GOOGLE.
+-> Rất hữu ích, bạn lưu lại để nhớ nhé!
+1. Dùng dấu ngoặc kép “ “ để tìm kiếm chính xác từ khóa nằm trong đó theo một trật tự chính xác.
+Ví dụ: “inbound marketing”
+2. Dùng dấu cộng “+” dùng kết hợp để tìm cụ thể một từ khóa nào đó và bắt buộc có trong kết quả tìm kiếm.
+Ví dụ: inbound marketing +advertising
+Lưu ý: Bạn phải đặt dấu “+” sát từ khóa, không có khoảng trống.
+3. Dùng dấu trừ “-” để loại bỏ một kết quả nào đó khỏi kết quả tìm kiếm của bạn.
+Lưu ý: Bạn phải đặt dấu “-” sát từ khóa, không có khoảng trống.
+Ví dụ: inbound marketing -advertising
+4. Dùng dấu ngã “~” để tìm một từ trong tìm kiếm và các kết quả có chứa các từ tương tự hoặc từ đồng nghĩa.
+Ví dụ: "inbound marketing" ~ professional
+5. Dùng “OR” hoặc dấu “I” để tìm kiếm 1 trong 2 từ khóa
+Ví dụ: inbound marketing OR advertising
+6. Toán tử “..” được dùng để tìm khoảng giữa các con số.
+7. Dấu sao “*” để tìm kiếm với cụm từ mình không biết rõ.
+Lưu ý: Dấu * có thể đứng trước, đứng giữa, đứng sau từ khóa cần tìm.
+8. Cú pháp “site:” khi bạn chỉ muốn tìm riêng một trong một trang web cụ thể nào.
+9. Cú pháp “related:” để tìm ra được những trang web có nội dung liên quan
+10. Cú pháp “allintext:” để tìm tất cả các từ có trong truy vấn và CHỈ ở trong nội dung của website (phần text).
+11. Cú pháp “cache:” dùng để xem lại bản cache đã được Google lưu lại.
+12. Cú pháp “filetype:” dùng để tìm chính xác loại file: doc, pdf, mp3, zip, xls,...
+13. Cú pháp “define:” dùng để tra định nghĩa của các từ, cụm từ.
+14. Cú pháp “inurl:”để tìm từ khóa trong đường dẫn.
+15. Cú pháp “allinurl:” nếu muốn tuyệt đối tất cả các từ khóa đều phải xuất hiện trong đường dẫn.
+16. Cú pháp “allintitle:” dùng để tìm tất cả các từ có trong truy vấn và CHỈ ở trong tiêu đề của website (title).
+17. Cú pháp “intitle:” có ý nghĩa tương tự allintitle và là con của allintitle. Thường được kết hợp với từ khóa trước hoặc sau nó.
